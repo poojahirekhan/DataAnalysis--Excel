@@ -1,6 +1,6 @@
 # DataAnalysis--Excel
 introduction to Data Analysis using spreadsheets
-## data analysis techniques using spreadsheets
+## Data analysis techniques using spreadsheets
 
 
  The basics of spreadsheets, 
